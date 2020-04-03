@@ -3,6 +3,8 @@ I used unsupervised machine learning techniques to create a recommender which ta
 
 The recommender can be run simply by running the Recommender.ipynb jupyter notebook from the model_recommender folder, but I've included all of the files to show my process and to allow for partial replication.
 
+A writeup of this project can be found here: https://medium.com/@gab99/data-science-and-lyricism-346395945ada
+
 **Tools**  
 Python 3  
  - pandas  
@@ -41,5 +43,5 @@ for the recommendation, but I recommend running the 'Recommender.ipynb' separate
 recommender in the training notebook will be using previously trained pickles for the recomendation.  
 
 **Presentation**  
-'Lyric Recommender Presentation.pdf' contains slides from my presentation of this project for 
+'Lyric Recommender Presentation.pdf' contains slides from my presentation of this project for
 the Metis Data Science Bootcamp.
